@@ -8,6 +8,10 @@
 ![GitHub Pages](https://img.shields.io/badge/hosted-GitHub%20Pages-222?logo=githubpages&logoColor=white)
 ![Items](https://img.shields.io/badge/items-55-2EA44F)
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Mandsaur Catalogue product page on GitHub Pages" width="720">
+</p>
+
 [Open the catalogue](https://mtarvecha660-lgtm.github.io/mandsaur-catalogue/)
 
 </div>
